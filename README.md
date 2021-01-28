@@ -1,6 +1,6 @@
 # Arctic_Circle_Or_Aztec_Diamond
 Hello, This project attempts to create and display something called the Arctic Circle or Aztec Diamond.
-The rules for the generation of this grid can be seen on the YouTube channel Mathologer. the rules are atHere is the link:
+The rules for the generation of this grid can be seen on the YouTube channel Mathologer. The video link are here:
 https://youtu.be/Yy7Q8IWNfHM
 to skip just to the rules start about here: https://youtu.be/Yy7Q8IWNfHM?t=1270
 
