@@ -5,11 +5,11 @@ https://youtu.be/Yy7Q8IWNfHM
 to skip just to the rules start about here: https://youtu.be/Yy7Q8IWNfHM?t=1270
 
 How to operate:
-Change line 62 to other numbers, the default I chose was 300
-Change line 63 to overwrite the excel file at the desired location.
-Close the excel file if open
-Run the code in Matlab and wait for it to finish
-open the excel file and see the results by zooming out to 10%
+New updated Version 2
+change the number in the window and press button to generate the graph.
+Currntly I changed the code so that the first 2 are not generating due to an error in the colors turning black.
+added a loading bar so that the user can see how long it takes to load, and that something is happening.
+
 
 improvements:
-The only way I could display this is by outputing the code to an excel file and then formating that file so that a specific number corrosponds with a specific color. Please let me know if there is something that can increase the speed of the code. I would also like to display this only in MATLAB but I do not know how to create a dynamic grid on a gui. My initial guess is display the matrix in a gui and then place a colorful square on top of the grid. I want to resize the grid to match how many times the code is run. Each time the loop cycles the matrix gets bigger and I was hoping to make this a dynamic graph, but I am not sure how to do this.
+Please let me know if there is something that can increase the speed of the code. I want to run large sizes greater than 10^3 x 10^3 like 10^100 x 10^100. This may crash Matlab at this time and exceed the memory of my computer. I also expect the it takes the code to run gets logorithmically longer.
